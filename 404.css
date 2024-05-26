@@ -219,7 +219,7 @@ p{
     transition:opacity 1s 3s ease-in;
 }
 h1{
-    font-size: 1.1em;
+    font-size: 0.8em;
     display: block;
     position: absolute;
     top: var(--h1-top);
